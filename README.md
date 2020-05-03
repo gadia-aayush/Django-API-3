@@ -10,12 +10,12 @@
   - All the fields in both the models are **CharField** with maximum length of **255**.
 - The Database Table Name of **User model** is **user**, & **ActivityPeriod model** is **activityperiod**.
 - We are using the default **Sqlite database** for storing the data.
-- Also, custom management command has been written to populate the database with dummy data. <br>[**Here is the link**](https://github.com/gadia-aayush/AayushGadia_Submission/blob/master/aayushassign/get_data/management/commands/populatedata.py)
+- Also, custom management command has been written to populate the database with dummy data. <br>[Click here to view the file.](https://github.com/gadia-aayush/AayushGadia_Submission/blob/master/aayushassign/get_data/management/commands/populatedata.py)
 
 ---
 
 #### Requirements-
-- [**Link to Requirements file**](requirements.txt)
+- [Click here to view the Requirements file](requirements.txt)
 
 ---
 
@@ -36,7 +36,7 @@
 - **Local Host :**
 ![local](rough/local.png)
 
-- [JSON Output File](rough/aayush_response.json)
+- [Click here to view the JSON Output File](rough/aayush_response.json)
 
 ---
 
