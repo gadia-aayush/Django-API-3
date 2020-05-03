@@ -1,7 +1,7 @@
 ### [README- get_data](https://github.com/gadia-aayush/AayushGadia_Submission/tree/master/aayushassign/get_data)
 
 
-#### Description-
+#### Description & Methodology-
 - It is a **GET API**.
 - Fetches the data in JSON in the [**given format**](rough/TestJSON.json)<br><br>
 - Here we have 2 models- **User** & **ActivityPeriod**.
