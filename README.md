@@ -19,6 +19,10 @@
 ---
 
 #### Requirements-
+- pytz
+- randomtimestamp
+- names
+- Django==2.1.5
 - [Click here to view the Requirements file](requirements.txt)
 
 ---
