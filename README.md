@@ -15,6 +15,7 @@
   - Based on the ids given in [**this JSON File**](rough/TestJSON.json), it seems that the id is having length = 9 with first 2 characters as "W0" and the 3rd character as a number b/w 0-9 and each of the remaining 6 characters are either upper case alphabet or number. Using this, we generate random 9 length character viz user id.
    - To generate the random time zones of the user we have used the **pytz** module.
    - To generate the random timestamps of the user we have used the **randomtimestamp** module. <br>**Basically we are storing the timestamps in our database and timestamps are in utc time, so we are converting that timestamp into the local time by the timezone of the user; it is the local time which we are returning finally.**
+   - Here, the code has generated 20 dummy datasets, but one can generate any number of datatsets they want by simply changing the **value passed in the range()** at **Line 50** of the [**file**](https://github.com/gadia-aayush/AayushGadia_Submission/blob/master/aayushassign/get_data/management/commands/populatedata.py)
 
 ---
 
