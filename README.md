@@ -9,7 +9,7 @@
   - **ActivityPeriod model** has **u_id** (user id), **start_timestamp** (start timestamp of the activity) & **end_timestamp** (end timestamp of the activity) as the fields.
   - All the fields in both the models are **CharField** with maximum length of **255**.
 - The Database Table Name of **User model** is **user**, & **ActivityPeriod model** is **activityperiod**.
-- We are using the default **Sqlite database** for storing the data.
+- We are using the default **Sqlite database** for storing the data.<br>
 - Also, custom management command has been written to populate the database with dummy data. <br>[**Click here to view the file.**](https://github.com/gadia-aayush/AayushGadia_Submission/blob/master/aayushassign/get_data/management/commands/populatedata.py)
   - Here we have used the **names** module to generate random full names of the user.
   - Based on the ids given in [**this JSON File**](rough/TestJSON.json), it seems that the id is having length = 9 with first 2 characters as "W0" and the 3rd character as a number b/w 0-9 and each of the remaining 6 characters are either upper case alphabet or number. Using this, we generate random 9 length character viz user id.
