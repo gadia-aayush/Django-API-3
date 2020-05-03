@@ -1,0 +1,271 @@
+{
+  "ok": true,
+  "members": [
+    {
+      "id": "W012A3CDE",
+      "real_name": "Egon Spengler",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 5:33AM",
+          "end_time": "Feb 1 2020 5:54AM"
+        },
+        {
+          "start_time": "Mar 1 2020 3:11AM",
+          "end_time": "Mar 1 2020 6:00AM"
+        },
+        {
+          "start_time": "Mar 16 2020 7:00AM",
+          "end_time": "Mar 16 2020 1:00PM"
+        },
+        {
+          "start_time": "May 2 2020 12:05PM",
+          "end_time": "May 2 2020 12:21PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Glinda Southgood",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 7:03PM",
+          "end_time": "Feb 1 2020 7:24PM"
+        },
+        {
+          "start_time": "Mar 1 2020 4:41PM",
+          "end_time": "Mar 1 2020 7:30PM"
+        },
+        {
+          "start_time": "Mar 16 2020 7:30PM",
+          "end_time": "Mar 17 2020 1:30AM"
+        },
+        {
+          "start_time": "May 3 2020 12:35AM",
+          "end_time": "May 3 2020 12:51AM"
+        }
+      ]
+    },
+    {
+      "id": "W03WTMW8J",
+      "real_name": "Emily Fernandez",
+      "tz": "GMT0",
+      "activity_periods": [
+        {
+          "start_time": "Jan 3 1950 7:32AM",
+          "end_time": "Jul 28 1950 4:49AM"
+        }
+      ]
+    },
+    {
+      "id": "W06IJ8GPE",
+      "real_name": "Thomas Ussery",
+      "tz": "Etc/GMT+12",
+      "activity_periods": [
+        {
+          "start_time": "Jun 24 1996 8:24PM",
+          "end_time": "Oct 6 2017 4:30AM"
+        }
+      ]
+    },
+    {
+      "id": "W04O7BKAO",
+      "real_name": "Robert Watkins",
+      "tz": "Asia/Seoul",
+      "activity_periods": [
+        {
+          "start_time": "Jun 22 1993 12:11AM",
+          "end_time": "Jun 22 1993 1:15AM"
+        }
+      ]
+    },
+    {
+      "id": "W05GH4F00",
+      "real_name": "Brian Raap",
+      "tz": "NZ-CHAT",
+      "activity_periods": [
+        {
+          "start_time": "Apr 28 1961 10:07AM",
+          "end_time": "Jun 18 1975 1:20AM"
+        }
+      ]
+    },
+    {
+      "id": "W06PPGKIG",
+      "real_name": "Jessie Fee",
+      "tz": "Etc/GMT+8",
+      "activity_periods": [
+        {
+          "start_time": "Dec 28 2003 10:41AM",
+          "end_time": "Jan 24 2014 7:50AM"
+        }
+      ]
+    },
+    {
+      "id": "W08KC6QFZ",
+      "real_name": "Opal Padilla",
+      "tz": "Australia/Perth",
+      "activity_periods": [
+        {
+          "start_time": "Nov 13 1975 5:05PM",
+          "end_time": "Sep 26 2012 9:30AM"
+        }
+      ]
+    },
+    {
+      "id": "W06RMPCWR",
+      "real_name": "Joseph Ser",
+      "tz": "Pacific/Guadalcanal",
+      "activity_periods": [
+        {
+          "start_time": "Sep 20 1984 11:34AM",
+          "end_time": "Sep 21 1999 6:23AM"
+        }
+      ]
+    },
+    {
+      "id": "W0572S3D4",
+      "real_name": "Wesley Auten",
+      "tz": "America/Cayenne",
+      "activity_periods": [
+        {
+          "start_time": "Dec 13 1966 4:30PM",
+          "end_time": "Oct 3 1979 6:29PM"
+        }
+      ]
+    },
+    {
+      "id": "W06AU3M8G",
+      "real_name": "Heidi Deibel",
+      "tz": "America/Panama",
+      "activity_periods": [
+        {
+          "start_time": "Jan 7 1967 7:30PM",
+          "end_time": "May 14 2009 12:51AM"
+        }
+      ]
+    },
+    {
+      "id": "W017GTO40",
+      "real_name": "Rafael Hines",
+      "tz": "America/Anchorage",
+      "activity_periods": [
+        {
+          "start_time": "Mar 6 1967 12:18PM",
+          "end_time": "Mar 2 1999 3:44AM"
+        }
+      ]
+    },
+    {
+      "id": "W06NP5VBX",
+      "real_name": "Shawn Townsend",
+      "tz": "UCT",
+      "activity_periods": [
+        {
+          "start_time": "Jul 17 1962 7:16AM",
+          "end_time": "Jan 19 2000 8:53PM"
+        }
+      ]
+    },
+    {
+      "id": "W03G8ANHF",
+      "real_name": "Eddie Gomez",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Jan 14 1957 9:26AM",
+          "end_time": "Dec 9 1961 12:43AM"
+        }
+      ]
+    },
+    {
+      "id": "W096MXAMW",
+      "real_name": "Nanette Lockhart",
+      "tz": "America/Argentina/Buenos_Aires",
+      "activity_periods": [
+        {
+          "start_time": "Jul 12 1973 12:11PM",
+          "end_time": "Jul 14 1975 8:37PM"
+        }
+      ]
+    },
+    {
+      "id": "W060GBIOF",
+      "real_name": "Shawn Young",
+      "tz": "ROC",
+      "activity_periods": [
+        {
+          "start_time": "Jul 13 1955 12:08PM",
+          "end_time": "Apr 5 1967 12:52AM"
+        }
+      ]
+    },
+    {
+      "id": "W04HNO3QD",
+      "real_name": "Richard Johnson",
+      "tz": "Asia/Kashgar",
+      "activity_periods": [
+        {
+          "start_time": "Sep 4 1955 3:35AM",
+          "end_time": "Dec 10 1957 8:42AM"
+        }
+      ]
+    },
+    {
+      "id": "W03SLUSZP",
+      "real_name": "Jerry Iverson",
+      "tz": "Europe/Nicosia",
+      "activity_periods": [
+        {
+          "start_time": "May 24 2004 4:01PM",
+          "end_time": "Apr 4 2016 2:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07ENYK9B",
+      "real_name": "Clarence White",
+      "tz": "Pacific/Nauru",
+      "activity_periods": [
+        {
+          "start_time": "Dec 5 1974 7:36PM",
+          "end_time": "Jul 28 1975 10:36AM"
+        }
+      ]
+    },
+    {
+      "id": "W03SYI21W",
+      "real_name": "Richard Andon",
+      "tz": "Pacific/Funafuti",
+      "activity_periods": [
+        {
+          "start_time": "Feb 19 1979 12:10PM",
+          "end_time": "May 24 1999 9:46AM"
+        }
+      ]
+    },
+    {
+      "id": "W02B64H8K",
+      "real_name": "Tamika Badillo",
+      "tz": "Asia/Omsk",
+      "activity_periods": [
+        {
+          "start_time": "Oct 26 1978 1:30AM",
+          "end_time": "Nov 27 1995 10:39PM"
+        }
+      ]
+    },
+    {
+      "id": "W00X7YEZ6",
+      "real_name": "Melba Henderson",
+      "tz": "Europe/Berlin",
+      "activity_periods": [
+        {
+          "start_time": "Apr 9 2002 7:16PM",
+          "end_time": "Aug 19 2005 10:37PM"
+        }
+      ]
+    }
+  ]
+}
