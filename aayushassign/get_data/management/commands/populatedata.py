@@ -21,16 +21,16 @@ class Command(BaseCommand):
         return timezone
 
     def get_timestamp(self):
-        time1 = randomtimestamp()
-        time2 = randomtimestamp()
+        time1 = randomtimestamp(text=False)
+        time2 = randomtimestamp(text=False)
 
-        time_format = "%d-%m-%Y %H:%M:%S"
+        #time_format = "%d-%m-%Y %H:%M:%S"
 
-        temp = datetime.datetime.strptime(time1, time_format)
-        time1 = datetime.datetime.timestamp(temp)
+        #temp = datetime.datetime.strptime(time1, time_format)
+        #time1 = datetime.datetime.timestamp(temp)
 
-        temp = datetime.datetime.strptime(time2, time_format)
-        time2 = datetime.datetime.timestamp(temp)
+        #temp = datetime.datetime.strptime(time2, time_format)
+        #time2 = datetime.datetime.timestamp(temp)
 
         if time1 >= time2:
             end_time = time1
